@@ -12,7 +12,7 @@ BackEnd
  - Migrations
  - AutoMapper
  - Infraestrutura baseada em DDD
- - Uso de padrões como Factory, Princípio da responsabilidade única, Repository e etc..
+ - Uso de padrões como Factory, IoC, Princípio da responsabilidade única, Repository e etc..
  - DTO com AutoMapper
  
  FrontEnd
