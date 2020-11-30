@@ -1,8 +1,8 @@
 # DESAFIO
 Desafio Pascoalotto
 
-PhascoalottoDesafioApi -> BackEnd da aplicação em .NetCore
-phascoalotto-desafio-front-end -> FrontEnd da aplicação em React
+- PhascoalottoDesafioApi -> BackEnd da aplicação em .NetCore
+- phascoalotto-desafio-front-end -> FrontEnd da aplicação em React
 
 ## Especificações
 
