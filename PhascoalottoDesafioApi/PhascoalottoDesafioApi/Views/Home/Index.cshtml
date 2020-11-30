@@ -1,0 +1,36 @@
+﻿<html>
+<head>
+    <title>PhascoalottoDesafio Api</title>
+
+    <style>
+        body {
+            font-family: Arial;
+        }
+
+        #countdown_text {
+            width: 100%;
+            font-size: 40px;
+        }
+
+        #countdown_text p {
+            font-size: 60px;
+            display: inline;
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <h1>PhascoalottoDesafio - Api <span style="color: green">Online.</span></h1>
+
+    <script language="Javascript">
+        var countdown_number = 0;
+        function countdown_trigger() {
+            countdown_number++;
+            document.getElementById('countdown_text').innerHTML = 'Tempo Online: <p>' + countdown_number + '</p> segundos';
+            countdown = setTimeout('countdown_trigger()', 1000);
+        }
+        setTimeout('countdown_trigger()', 1000);
+    </script>
+    <div id="countdown_text">Tempo Online: <p>0</p> segundos</div>
+</body>
+</html>

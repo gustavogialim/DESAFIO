@@ -1,0 +1,8 @@
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Infraestrutura.Transversal\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Infraestrutura.Transversal.deps.json
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Infraestrutura.Transversal\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Infraestrutura.Transversal.dll
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Infraestrutura.Transversal\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Infraestrutura.Transversal.pdb
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Infraestrutura.Transversal\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Infraestrutura.Transversal.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Infraestrutura.Transversal\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Infraestrutura.Transversal.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Infraestrutura.Transversal\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Infraestrutura.Transversal.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Infraestrutura.Transversal\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Infraestrutura.Transversal.dll
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Infraestrutura.Transversal\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Infraestrutura.Transversal.pdb

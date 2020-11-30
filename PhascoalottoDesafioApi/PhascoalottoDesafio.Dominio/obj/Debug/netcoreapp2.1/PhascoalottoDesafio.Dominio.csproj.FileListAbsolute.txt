@@ -1,0 +1,12 @@
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Dominio.deps.json
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Dominio.dll
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Dominio.pdb
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.dll
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.pdb
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Dominio.csprojAssemblyReference.cache
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Dominio.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Dominio.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Dominio.csproj.CopyComplete
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Dominio.dll
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Dominio\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Dominio.pdb

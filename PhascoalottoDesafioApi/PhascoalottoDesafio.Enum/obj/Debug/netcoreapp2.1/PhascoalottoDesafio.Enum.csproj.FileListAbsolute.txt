@@ -1,0 +1,9 @@
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Enum\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.deps.json
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Enum\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.dll
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Enum\bin\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.pdb
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Enum\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Enum\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Enum\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.AssemblyInfo.cs
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Enum\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.dll
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Enum\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.pdb
+C:\Users\Gustavo\Documents\Projetos\Phascoalotto\PhascoalottoDesafioApi\PhascoalottoDesafio.Enum\obj\Debug\netcoreapp2.1\PhascoalottoDesafio.Enum.csprojAssemblyReference.cache

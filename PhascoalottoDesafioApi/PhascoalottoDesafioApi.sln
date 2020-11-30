@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhascoalottoDesafioApi", "PhascoalottoDesafioApi\PhascoalottoDesafioApi.csproj", "{1AD89F8C-9D76-4519-8C5B-F477216961A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhascoalottoDesafio.Aplicacao", "PhascoalottoDesafio.Aplicacao\PhascoalottoDesafio.Aplicacao.csproj", "{25FA50D5-32D8-474C-B17C-5097D626E679}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhascoalottoDesafio.Dominio", "PhascoalottoDesafio.Dominio\PhascoalottoDesafio.Dominio.csproj", "{9D62251B-371A-49DB-9C99-D54DB5B0C401}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhascoalottoDesafio.DTO", "PhascoalottoDesafio.DTO\PhascoalottoDesafio.DTO.csproj", "{5A7623A7-F9A0-4B31-9E84-38C4A05D3AD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhascoalottoDesafio.Infraestrutura", "PhascoalottoDesafio.Infraestrutura\PhascoalottoDesafio.Infraestrutura.csproj", "{5DCD9A5A-5B92-4EA8-A36A-51C21E4668B5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhascoalottoDesafio.Enum", "PhascoalottoDesafio.Enum\PhascoalottoDesafio.Enum.csproj", "{52719187-C2B9-4CA1-835F-3001C57A8602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhascoalottoDesafio.Infraestrutura.Transversal", "PhascoalottoDesafio.Infraestrutura.Transversal\PhascoalottoDesafio.Infraestrutura.Transversal.csproj", "{66F7D23F-50A7-4DF6-9240-806CC3C034B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD89F8C-9D76-4519-8C5B-F477216961A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD89F8C-9D76-4519-8C5B-F477216961A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD89F8C-9D76-4519-8C5B-F477216961A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD89F8C-9D76-4519-8C5B-F477216961A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25FA50D5-32D8-474C-B17C-5097D626E679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25FA50D5-32D8-474C-B17C-5097D626E679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25FA50D5-32D8-474C-B17C-5097D626E679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25FA50D5-32D8-474C-B17C-5097D626E679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D62251B-371A-49DB-9C99-D54DB5B0C401}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D62251B-371A-49DB-9C99-D54DB5B0C401}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D62251B-371A-49DB-9C99-D54DB5B0C401}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D62251B-371A-49DB-9C99-D54DB5B0C401}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A7623A7-F9A0-4B31-9E84-38C4A05D3AD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A7623A7-F9A0-4B31-9E84-38C4A05D3AD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A7623A7-F9A0-4B31-9E84-38C4A05D3AD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A7623A7-F9A0-4B31-9E84-38C4A05D3AD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DCD9A5A-5B92-4EA8-A36A-51C21E4668B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DCD9A5A-5B92-4EA8-A36A-51C21E4668B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DCD9A5A-5B92-4EA8-A36A-51C21E4668B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DCD9A5A-5B92-4EA8-A36A-51C21E4668B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52719187-C2B9-4CA1-835F-3001C57A8602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52719187-C2B9-4CA1-835F-3001C57A8602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52719187-C2B9-4CA1-835F-3001C57A8602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52719187-C2B9-4CA1-835F-3001C57A8602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66F7D23F-50A7-4DF6-9240-806CC3C034B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66F7D23F-50A7-4DF6-9240-806CC3C034B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66F7D23F-50A7-4DF6-9240-806CC3C034B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66F7D23F-50A7-4DF6-9240-806CC3C034B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03ECFF38-8D6C-40B5-8E58-694746BBDFC0}
+	EndGlobalSection
+EndGlobal

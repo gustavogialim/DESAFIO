@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Infraestrutura\\PhascoalottoDesafio.Infraestrutura.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Dominio\\PhascoalottoDesafio.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Dominio\\PhascoalottoDesafio.Dominio.csproj",
+        "projectName": "PhascoalottoDesafio.Dominio",
+        "projectPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Dominio\\PhascoalottoDesafio.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Enum\\PhascoalottoDesafio.Enum.csproj": {
+                "projectPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Enum\\PhascoalottoDesafio.Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.DTO\\PhascoalottoDesafio.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.DTO\\PhascoalottoDesafio.DTO.csproj",
+        "projectName": "PhascoalottoDesafio.DTO",
+        "projectPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.DTO\\PhascoalottoDesafio.DTO.csproj",
+        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Enum\\PhascoalottoDesafio.Enum.csproj": {
+                "projectPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Enum\\PhascoalottoDesafio.Enum.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Enum\\PhascoalottoDesafio.Enum.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Enum\\PhascoalottoDesafio.Enum.csproj",
+        "projectName": "PhascoalottoDesafio.Enum",
+        "projectPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Enum\\PhascoalottoDesafio.Enum.csproj",
+        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Enum\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Infraestrutura\\PhascoalottoDesafio.Infraestrutura.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Infraestrutura\\PhascoalottoDesafio.Infraestrutura.csproj",
+        "projectName": "PhascoalottoDesafio.Infraestrutura",
+        "projectPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Infraestrutura\\PhascoalottoDesafio.Infraestrutura.csproj",
+        "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Infraestrutura\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gustavo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Dominio\\PhascoalottoDesafio.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.Dominio\\PhascoalottoDesafio.Dominio.csproj"
+              },
+              "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.DTO\\PhascoalottoDesafio.DTO.csproj": {
+                "projectPath": "C:\\Users\\Gustavo\\Documents\\Projetos\\Phascoalotto\\PhascoalottoDesafioApi\\PhascoalottoDesafio.DTO\\PhascoalottoDesafio.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
